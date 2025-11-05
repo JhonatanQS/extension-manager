@@ -1,0 +1,17 @@
+.header-block {
+  background-color: #fcfdff;
+  width:  100%;
+  display: flex;
+  padding: 1rem;
+  border-radius: 1.5rem;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 0 0.125rem 0.25rem 0 rgba(0,0,0,0.23);
+
+  .mode-button {
+    background-color: #eeeeee;
+    border-radius: 0.5rem;
+    border: none;
+    padding: 0.75rem;
+  }
+}
